@@ -1,0 +1,6 @@
+ 'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Emma', 'Frank', 'Grace', 'Hannah', 'Ian', 'Judy'],
+    'Age': [24, 30, 35, 29, 28, 33, 27, None, 45, 31],
+    'Gender': ['Female', 'Male', 'Male', 'Male', 'Female', 'Male', 'Female', 'Female', 'Male', 'Female'],
+    'Salary': [50000, 60000, None, 52000, 58000, 61000, 57000, 54000, 67000, None],
+    'City': ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix', 'Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose'],
+    'Experience': [1, 5, 10, 3, 2, 7, 4, 6, 15, 8]
